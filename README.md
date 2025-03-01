@@ -25,7 +25,7 @@ webcam: Captures and sends an image from the victim’s webcam (in hex).
 
 audio [duration]: Records audio for the specified duration (e.g., audio 500 records for 5 minutes) and sends it (in hex).
 
-location: Retrieves the victim’s geographical location using an API (sent as data).
+location: Retrieves the victim’s geographical location using an ipinfo.io/ (sent as data).
 
 clipboard: Extracts and sends the current contents of the victim’s clipboard.
 
