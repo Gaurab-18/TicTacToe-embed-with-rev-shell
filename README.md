@@ -1,5 +1,3 @@
-Below is an enhanced and professionally formatted README.md for your GitHub repository, titled # TicTacToe-embed-with-rev-shell. It’s designed to look clean, appealing, and informative, while emphasizing that the project is created for educational purposes only and disclaiming responsibility for misuse. I’ll maintain the structure and content you provided, but polish it for readability, aesthetics, and professionalism.
-
 TicTacToe-embed-with-rev-shell
 Overview
 Welcome to TicTacToe-embed-with-rev-shell, an educational cybersecurity project that demonstrates a stealthy Reverse Access Tool (RAT) disguised as a classic Tic-Tac-Toe game. Upon execution, the Tic-Tac-Toe frontend seamlessly operates as a decoy, while secretly establishing a reverse shell connection to an attacker’s server, all without the victim’s knowledge. This project serves as a powerful example for learning about cybersecurity principles, ethical hacking, and the importance of secure software practices.
